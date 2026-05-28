@@ -24,6 +24,7 @@
 
 | 날짜 | 플랫폼 | 문제 번호 | 제목 | 분류 | 상태 | 비고 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 26.05.28 | 프로그래머스 | Level0 | [아이스아메리카노](./Programmers/Level0/Level0_아이스아메리카노.js) | 입문 | Success | |
 | 26.05.28 | 프로그래머스 | Level0 | [배열의평균값](./Programmers/Level0/Level0_배열의평균값.js) | 입문 | Success | |
 | 26.05.28 | 프로그래머스 | Level0 | [피자나눠먹기(3)](./Programmers/Level0/Level0_피자나눠먹기(3).js) | 입문 | Success | |
 | 26.05.28 | 프로그래머스 | Level0 | [피자나눠먹기(1)](./Programmers/Level0/Level0_피자나눠먹기(1).js) | 입문 | Success | |
