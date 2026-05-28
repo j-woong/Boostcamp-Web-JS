@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "현재 파일 실행",
+            "program": "${file}",
+            "console": "integratedTerminal" // ◀ 💡 이 줄을 꼭 추가해 주세요!
+        }
+    ]
+}
