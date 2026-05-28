@@ -24,4 +24,6 @@
 
 | 날짜 | 플랫폼 | 문제 번호 | 제목 | 분류 | 상태 | 비고 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 26.05.28 | 프로그래머스 | Level0 | [숫자비교하기](./Programmers/Level0/Level0_숫자비교하기.js) | 입문 | Success | |
+| 26.05.28 | 프로그래머스 | Level0 | [두수의곱구하기](./Programmers/Level0/Level0_두수의곱구하기.js) | 입문 | Success | |
 | 26.05.28 | 프로그래머스 | Level0 | [몫구하기](./Programmers/Level0/Level0_몫구하기.js) | 입문 | Success | |
